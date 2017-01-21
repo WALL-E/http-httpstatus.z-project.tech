@@ -1,2 +1,2 @@
-# http-httpstatus.z-project.tech
+# httpstatus.z-project.tech
 http://httpstatus.z-project.tech/
